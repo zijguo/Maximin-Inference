@@ -220,3 +220,6 @@ CI.union
 contain
 det
 ```
+### Reference
+
+Guo, Z. (2020). Inference for High-dimensional Maximin Effects in Heterogeneous Regression Models Using a Sampling Approach. arXiv preprint arXiv:2011.07568.
