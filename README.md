@@ -6,11 +6,16 @@ library(Matrix);
 library(glmnet);
 library(intervals);
 library(CVXR);
+```
 ### load the source functions
 ### LF_Inference computes the inference for linear functional in a single high-dim regression
 ### Source_Functions contains other source functions
+```R
 source('LF_Inference.R', encoding = 'UTF-8')
 source('Source_Functions.R', encoding = 'UTF-8')
+```
+### Examples 
+```R
 ### sample size n
 n=500
 ##### the dimension p
