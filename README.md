@@ -1,10 +1,10 @@
 # Maximin-Inference
 ### read the packages
-library(MASS)
+library(MASS);
 library(Matrix);
 library(glmnet);
-library(intervals)
-library(CVXR)
+library(intervals);
+library(CVXR);
 ### load the source functions
 ### LF_Inference computes the inference for linear functional in a single high-dim regression
 ### Source_Functions contains other source functions
