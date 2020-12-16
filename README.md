@@ -1,5 +1,6 @@
 # Maximin-Inference
 ### read the packages
+```R
 library(MASS);
 library(Matrix);
 library(glmnet);
@@ -215,3 +216,4 @@ CI.upper
 CI.union
 contain
 det
+```
