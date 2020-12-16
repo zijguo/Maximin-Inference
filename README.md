@@ -1,5 +1,5 @@
 # Maximin-Inference
-### read the packages
+### Read the packages
 ```R
 library(MASS);
 library(Matrix);
@@ -7,14 +7,12 @@ library(glmnet);
 library(intervals);
 library(CVXR);
 ```
-### load the source functions
-### LF_Inference computes the inference for linear functional in a single high-dim regression
-### Source_Functions contains other source functions
+### Load the source functions
 ```R
 source('LF_Inference.R', encoding = 'UTF-8')
 source('Source_Functions.R', encoding = 'UTF-8')
 ```
-### Examples 
+### Example
 ```R
 ### sample size n
 n=500
